@@ -2,7 +2,7 @@
     <channel>
         <title>Colin Gibbons</title>
         <link>http://colingibbons.com/</link>
-        <description>This is my cool site</description>
+        <description>My dev profile</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>colingbbns@gmail.com (Colin Gibbons)</managingEditor>
             <webMaster>colingbbns@gmail.com (Colin Gibbons)</webMaster>
             <atom:link href="http://colingibbons.com/index.xml" rel="self" type="application/rss+xml" />
