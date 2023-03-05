@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Colin Gibbons</title>
-        <link>http://colingibbons.com/</link>
-        <description>My dev profile</description>
+        <title>All Posts - Colin Gibbons</title>
+        <link>http://colingibbons.com/posts/</link>
+        <description>All Posts | Colin Gibbons</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>colingbbns@gmail.com (Colin Gibbons)</managingEditor>
-            <webMaster>colingbbns@gmail.com (Colin Gibbons)</webMaster><lastBuildDate>Mon, 27 Feb 2023 17:24:04 -0600</lastBuildDate>
-            <atom:link href="http://colingibbons.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>colingbbns@gmail.com (Colin Gibbons)</webMaster><lastBuildDate>Mon, 27 Feb 2023 17:24:04 -0600</lastBuildDate><atom:link href="http://colingibbons.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>What&#39;s for Dinner?</title>
     <link>http://colingibbons.com/prep-my-week/</link>
     <pubDate>Mon, 27 Feb 2023 17:24:04 -0600</pubDate>
