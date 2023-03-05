@@ -108,7 +108,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Custom content (HTML format is supported)
     custom = ''
     #  whether to show Hugo and theme info
-    hugo = false
+    hugo = true
     #  whether to show copyright info
     copyright = true
     #  whether to show the author
@@ -207,8 +207,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/colin-gibbons"
-    Linkedin = "https://www.linkedin.com/in/colin-gibbons-3223b8141/"
+    GitHub = "colin-gibbons"
+    Linkedin = "colin-gibbons-3223b8141"
     Twitter = ""
     Instagram = ""
     Facebook = ""
